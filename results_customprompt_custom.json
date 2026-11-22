@@ -1,0 +1,52 @@
+[
+  {
+    "id": "c1",
+    "text": "Apple launched the M4 MacBook Pro with faster AI neural engines.",
+    "gold_category": "Sci/Tech",
+    "gold_entities": [
+      "Apple"
+    ],
+    "raw_output": "{\n  \"category\": \"Business\",\n  \"sentiment_score\": 0.85,\n  \"entities\": [\"Apple\", \"M4 MacBook Pro\", \"AI neural engines\"]\n}"
+  },
+  {
+    "id": "c2",
+    "text": "Liverpool defeated Real Madrid 2-0 in the Champions League match at Anfield.",
+    "gold_category": "Sports",
+    "gold_entities": [
+      "Liverpool",
+      "Real Madrid",
+      "Champions League",
+      "Anfield"
+    ],
+    "raw_output": "{\n  \"category\": \"Sports\",\n  \"sentiment_score\": 0.85,\n  \"entities\": [\"Liverpool\", \"Real Madrid\", \"Champions League\", \"Anfield\"]\n}"
+  },
+  {
+    "id": "c3",
+    "text": "Federal Reserve kept interest rates unchanged amid steady inflation data.",
+    "gold_category": "Business",
+    "gold_entities": [
+      "Federal Reserve"
+    ],
+    "raw_output": "{\n  \"category\": \"Business\",\n  \"sentiment_score\": 0.5,\n  \"entities\": [\"Federal Reserve\", \"interest rates\", \"inflation data\"]\n}"
+  },
+  {
+    "id": "c4",
+    "text": "UN Security Council called an emergency meeting in New York over peace talks.",
+    "gold_category": "World",
+    "gold_entities": [
+      "UN Security Council",
+      "New York"
+    ],
+    "raw_output": "{\n  \"category\": \"World\",\n  \"sentiment_score\": 0.75,\n  \"entities\": [\"UN Security Council\", \"emergency meeting\", \"New York\", \"peace talks\"]\n}"
+  },
+  {
+    "id": "c5",
+    "text": "Nvidia signed a $500M sponsorship deal with Manchester City to build a virtual stadium.",
+    "gold_category": "Business",
+    "gold_entities": [
+      "Nvidia",
+      "Manchester City"
+    ],
+    "raw_output": "{\n  \"category\": \"Business\",\n  \"sentiment_score\": 0.8,\n  \"entities\": [\"Nvidia\", \"Manchester City\", \"virtual stadium\", \"$500M sponsorship deal\"]\n}"
+  }
+]
